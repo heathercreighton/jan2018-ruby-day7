@@ -1,5 +1,9 @@
 puts "Hello World!"
 
+puts "Hi Jaquis" 
+name = gets.chomp
+
+
 
 #Thomas' changes
 def git_stuff
@@ -7,3 +11,4 @@ def git_stuff
 end
 
 git_stuff
+
