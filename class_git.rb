@@ -1,3 +1,9 @@
+
+puts "Hello Universe!"
+
+puts "Hello World"
+puts "Hi"
+
 puts "Hello World!"
 
 puts "Hi Jaquis" 
@@ -11,4 +17,5 @@ def git_stuff
 end
 
 git_stuff
+
 
